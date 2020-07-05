@@ -1,7 +1,4 @@
 <h2>Bontrip API</h2>
-## Description
-
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
 ## Installation
 
